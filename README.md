@@ -1,2 +1,3 @@
-# MinecraftModding1.14
-The code for Harry Talks' Minecraft Modding Tutorials for MC 1.14 and 1.13
+# Rons mod in 1.14
+This fdollows very closely Harry Talks' Minecraft Modding Tutorials for MC 1.14 and 1.13 ... 
+    Thanks Harry for the tutorials and smaple code
